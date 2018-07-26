@@ -1,0 +1,17 @@
+{
+  "name": "learning_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scratch.js",
+  "dependencies": {
+    "eslint": "^5.2.0"
+  },
+  "devDependencies": {
+    "react": "^16.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kapil Mathe",
+  "license": "ISC"
+}
